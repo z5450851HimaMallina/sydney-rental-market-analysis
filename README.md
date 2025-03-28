@@ -1,6 +1,7 @@
 # Finding Home: An Analysis of Sydney's Rental Market 
-High rental prices in Sydney are creating housing affordability issues.This analysis can be helpful for international students from University of New South Wales (UNSW) choose the right location based on their budget, needs, and preferences.
 <img width="827" alt="image" src="https://github.com/user-attachments/assets/44b6080f-b909-44c9-9d01-2fcf71b83dac" />
+
+High rental prices in Sydney are creating housing affordability issues.This analysis can be helpful for international students from University of New South Wales (UNSW) choose the right location based on their budget, needs, and preferences.
 
 ## Business Objective
 To identify and recommend the best housing options for UNSW international students, factoring in affordability, location, and accessibility to essential services.
