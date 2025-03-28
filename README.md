@@ -11,6 +11,10 @@ Indepth analysis can be found in the PPT and code file located in this repositor
 
 <img width="640" alt="image" src="https://github.com/user-attachments/assets/c17dc702-61c9-4476-b82b-a82205dcd1d5" />
 
+NOTE: You may have to download the raw file of PPT for easy access!
+
+sydney-rental-market-analysis > Open Sydney's Rental Analysis.pptx > Click View Raw
+
 ## Methodology and Tools
 Data scrapping, statistical analysis, and data visualization with Python (Pandas, NumPy, Matplotlib, Seaborn)
 
